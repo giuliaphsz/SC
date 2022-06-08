@@ -134,7 +134,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/scratch.mit.edu\/projects\/691287509\/"
+                 "value":"https:\/\/scratch.mit.edu\/projects\/691287509\/embed"
                 }],
          "type":"tilelayer",
          "visible":true,
